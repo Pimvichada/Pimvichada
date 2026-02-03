@@ -60,7 +60,7 @@ I enjoy turning ideas into real products and continuously learning new technolog
 
 ## 📫 Contact Me
 - 📧 Email: [Pimvichada172546@gmail.com](mailto:Pimvichada172546@gmail.com)  
-- 💼 Portfolio: https://portfolioipimvichada.netlify.app/
+- 💼 Portfolio: https://portfolio-pimvichadaj.netlify.app/#
 
 ---
 
